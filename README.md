@@ -4,7 +4,7 @@ Este e-book traz um breve resumo da Portaria Conjunta 33/2023.
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
 IA Generativa Copilot para criar a imagem de capa do e-book;
-Ferramenta Microsoft Word para edição.
+Microsoft Word para edição.
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para listar os principais pontos que acredito serem importantes em um resumo da Portaria Conjunta 33/2023. 
